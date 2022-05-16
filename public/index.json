@@ -1,0 +1,21 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "A Nobody Blog",
+  "home_page_url": "/",
+  "feed_url": "/",
+
+
+  "items": [
+  
+  
+    {
+      "id": "/2022/05/16/pertama/",
+      "title": "Pertama",
+      "content_text": "hari ini aku belajar cara membuat blog aku tidak tidur semalaman ini, meninggalkan cucian mingguan, dan cucian piring. Untung saja hari ini hari libur nasional jadi aku bisa mengambil waktu luang untuk mengikuti kuliah.\n$$x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}$$\n$$ \\begin{bmatrix*}[r] 0 \u0026amp; -1 \\ -1 \u0026amp; 0 \\end{bmatrix*} $$\n$$ $$",
+      "url": "/2022/05/16/pertama/",
+      "date_published": "2022-05-16 10:25:50 +0700 +07",
+      "tags": ["<no value>"]
+    }
+  
+  ]
+}

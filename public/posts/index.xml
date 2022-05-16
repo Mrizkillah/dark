@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Nobody Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on A Nobody Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>me@rizki.me (Muhammad Rizkillah)</managingEditor>
+    <webMaster>me@rizki.me (Muhammad Rizkillah)</webMaster>
+    <copyright>Copyright (C) 2020 Nobody</copyright>
+    <lastBuildDate>Mon, 16 May 2022 10:25:50 +0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pertama</title>
+      <link>/2022/05/16/pertama/</link>
+      <pubDate>Mon, 16 May 2022 10:25:50 +0700</pubDate>
+      <author>me@rizki.me (Muhammad Rizkillah)</author>
+      <guid>/2022/05/16/pertama/</guid>
+      <description>hari ini aku belajar cara membuat blog aku tidak tidur semalaman ini, meninggalkan cucian mingguan, dan cucian piring. Untung saja hari ini hari libur nasional jadi aku bisa mengambil waktu luang untuk mengikuti kuliah.
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+$$ \begin{bmatrix*}[r] 0 &amp;amp; -1 \ -1 &amp;amp; 0 \end{bmatrix*} $$
+$$ $$</description>
+    </item>
+    
+  </channel>
+</rss>

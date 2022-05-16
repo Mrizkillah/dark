@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on A Nobody Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on A Nobody Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>me@rizki.me (Muhammad Rizkillah)</managingEditor>
+    <webMaster>me@rizki.me (Muhammad Rizkillah)</webMaster>
+    <copyright>Copyright (C) 2020 Nobody</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

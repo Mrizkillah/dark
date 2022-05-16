@@ -1,0 +1,26 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "A Nobody Blog"
+rssLimit = 20
+copyright = "Copyright (C) 2020 Nobody"
+minify = false
+theme = "serial"
+
+[Author]
+  name = "Muhammad Rizkillah"
+  email = "me@rizki.me"
+
+[permalinks]
+  posts = "/:year/:month/:day/:filename"
+  pages = "/:slug"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["html", "json", "rss"]
+
+[params.math]
+enable = true # whether to enable math typesetting
+use = "katex"  # katex or mathjax
