@@ -10,10 +10,3 @@ math: true
 aku tidak tidur semalaman ini, meninggalkan cucian mingguan, dan cucian piring. Untung saja hari ini hari libur nasional jadi aku bisa mengambil waktu luang untuk mengikuti kuliah.
 
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
-
-$$ \begin{bmatrix*}[r] 0 & -1
- \\
- -1 & 0 \end{bmatrix*} $$
-
- $$ $$

@@ -23,4 +23,4 @@ theme = "serial"
 
 [params.math]
 enable = true # whether to enable math typesetting
-use = "katex"  # katex or mathjax
+use = "katex"  # katex or mathjax 
